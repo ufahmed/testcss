@@ -1,0 +1,15 @@
+h1{
+    background-color: black;
+    color: white;
+}
+div span{
+    color: yellow;
+}
+.line2{
+    text-align: center;
+    background-color: rgb(105, 45, 159);
+}
+.line3{
+    background-color: rgb(111, 198, 239);
+    text-align: right;
+}
